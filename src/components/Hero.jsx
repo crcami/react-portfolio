@@ -1,4 +1,5 @@
 import { HERO_CONTENT } from "../constants";
+import profile from "../assets/images/profile.png"
 
 const Hero = () => {
     return <div className="border-b border-neutral-900 pb-4 lg:mb-35">
@@ -12,7 +13,14 @@ const Hero = () => {
                         to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
                         Junior Web Developer
                     </span>
-                    <p className="my-2 max-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</p>
+                    <p className="my-2 max-w-xl py-6 font-light tracking-tighter">
+                        {HERO_CONTENT}
+                    </p>
+                </div>
+            </div>
+            <div className="w-full lg:w-1/2 ">
+                <div className="flex justify-end">
+                    <img src={profile} alt="Camila Afonso" />
                 </div>
             </div>
         </div>
