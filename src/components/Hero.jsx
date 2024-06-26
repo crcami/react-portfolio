@@ -18,8 +18,8 @@ const Hero = () => {
                     </p>
                 </div>
             </div>
-            <div className="w-full lg:w-1/2 ">
-                <div className="flex justify-end">
+            <div className="w-full lg:w-1/2 lg:p-8">
+                <div className="flex justify-center">
                     <img src={profile} alt="Camila Afonso" />
                 </div>
             </div>
