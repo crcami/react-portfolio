@@ -17,7 +17,8 @@ I increasingly improve my skills in HTML, CSS, JavaScript,
 frameworks like Bootstrap, JQuery and React. Developing
 skills also with Node and Express to be prepared 
 for any challenge.`,
-    technologies: ["Javascript", "React.js", "Next.js", "CSS", "HTML", "Bootstrap", "Jquery", "Node", "Express"],
+    technologies: ["Javascript", "React.js", "Next.js", "CSS", 
+      "HTML", "Node", "Express"],
   },
 
 ];
