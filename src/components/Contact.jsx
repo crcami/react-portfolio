@@ -27,7 +27,9 @@ const Contact = () => {
                     transition={{ duration: 1 }}
                     className="my-4"
                 >
-                    {CONTACT.phoneNo}
+                    <a href="https://web.whatsapp.com/send?phone=5541991738017">
+                        {CONTACT.phoneNo}
+                    </a>
                 </motion.p>
                 <a href="#" className="border-b">
                     {CONTACT.email}
