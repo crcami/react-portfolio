@@ -17,7 +17,7 @@ I increasingly improve my skills in HTML, CSS, JavaScript,
 frameworks like Bootstrap, JQuery and React. Developing
 skills also with Node and Express to be prepared 
 for any challenge.`,
-    technologies: ["Javascript", "React.js", "Next.js", "CSS", 
+    technologies: ["Javascript", "React.js", "Next.js", "CSS",
       "HTML", "Node", "Express"],
   },
 
@@ -26,6 +26,7 @@ for any challenge.`,
 export const PROJECTS = [
   {
     title: "Project using glass effect",
+    link: "https://crcami.github.io/glass-card-project/",
     image: projectGlass,
     description:
       "This project demonstrates the use of HTML and CSS to create visually appealing cards with a glass effect.The cards contain a heading, subheading, descriptive text, and a link for further reading.",
@@ -33,6 +34,7 @@ export const PROJECTS = [
   },
   {
     title: "Landing Page of a project aimed at a Goumet restaurant",
+    link: "https://crcami.github.io/gourmet-backyard/",
     image: projectGourmet,
     description:
       "This project consists of a landing page for a restaurant that stands out for offering a gourmet culinary experience with a focus on healthy eating.",
