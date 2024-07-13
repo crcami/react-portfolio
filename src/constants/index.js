@@ -11,14 +11,15 @@ export const EXPERIENCES = [
     year: "2023 - Present",
     role: "Junior developer",
     company: "Personal Projects",
-    description: `To improve my hard skills in Frontend, I have been coming since 
-January studying and putting into practice several projects. On them 
-I increasingly improve my skills in HTML, CSS, JavaScript, 
-frameworks like Bootstrap, JQuery and React. Developing
-skills also with Node and Express to be prepared 
-for any challenge.`,
+    description: `To improve my hard skills in Frontend, I have been studying and putting into practice several projects since January.
+     On them, I increasingly improve my skills in HTML, CSS, JavaScript,
+      frameworks like Bootstrap, JQuery, and React.js, using tools like Vite. 
+      Additionally, I am developing skills in Backend technologies such as Node.js with Express.js,
+       and PHP with Laravel. I also work with databases including SQLite, PostgreSQL, and MySQL,
+        which are essential for any Backend development. For versioning and environment management, 
+        I use Docker, and I follow Git and GitHub best practices, including Conventional Commits.`,
     technologies: ["Javascript", "React.js", "Next.js", "CSS",
-      "HTML", "Node", "Express"],
+      "HTML", "Node", "Express", "PHP"],
   },
 
 ];
